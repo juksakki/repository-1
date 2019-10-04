@@ -1,6 +1,7 @@
 ## Ryhmätyö reflektointi
 
 Kirjoitin markkinoista ja kilpailijoista, hintatasosta
+  
   Kilpailijoista: speaciaali.fi, delanet.fi ja www.warmane.com
  markkinat: että mitä hyvään markkinointiin kuluu ja mitkä asiat,  tärkeimpiä. Siirsin tekstit githubbiiin.
 kirjoitin apple xcodesta/ että mitä se tarkoittaa ja mitää siihen kuuluu.
