@@ -1,6 +1,6 @@
 ## Ryhmätyö reflektointi
 
-Kirjoitin markkinoista ja kilpailijoista, hintatasosta
+Kirjoitin markkinoista ja kilpailijoista, hintatasosta.
   
   Kilpailijoista: speaciaali.fi, delanet.fi ja www.warmane.com
 
